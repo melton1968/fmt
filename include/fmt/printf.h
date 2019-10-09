@@ -8,6 +8,7 @@
 #ifndef FMT_PRINTF_H_
 #define FMT_PRINTF_H_
 
+#include <stdio.h>
 #include <algorithm>  // std::fill_n
 #include <limits>     // std::numeric_limits
 

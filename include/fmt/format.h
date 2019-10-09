@@ -33,6 +33,7 @@
 #ifndef FMT_FORMAT_H_
 #define FMT_FORMAT_H_
 
+#include <stdio.h>
 #include <algorithm>
 #include <cassert>
 #include <cmath>
